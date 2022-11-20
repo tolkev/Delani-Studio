@@ -99,3 +99,22 @@ form#contact-form ::placeholder {
     color: white;
 }
 
+.isInput,
+.isInput:focus {
+    background-color: transparent;
+    color: #fff
+}
+
+
+.portfolio {
+    max-width: 80%;
+
+}
+
+#social {
+    padding-top: 40px;
+}
+
+#social-padding img {
+    padding: 5px;
+}
