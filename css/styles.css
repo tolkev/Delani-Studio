@@ -52,3 +52,16 @@
 
 }
 
+#mservices,
+#we_do {
+    margin-top: 0px;
+}
+
+#themessage {
+    padding-top:    80px;
+    padding-bottom:    50px;
+}
+
+.first-list {
+    padding-top: 20px;
+}
