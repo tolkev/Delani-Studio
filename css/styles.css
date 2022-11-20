@@ -81,3 +81,21 @@
     margin-top: 70px;
 }
 
+.mForm {
+    padding-top: 70px;
+}
+
+form#contact-form::-webkit-input-placeholder {
+    /* Edge */
+    color: white;
+}
+
+form#contact-form :-ms-input-placeholder {
+    /* Internet Explorer */
+    color: white;
+}
+
+form#contact-form ::placeholder {
+    color: white;
+}
+
