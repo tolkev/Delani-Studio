@@ -15,3 +15,9 @@
 
 }
 
+.no-padding,
+.work-heading {
+    padding-left: 0;
+    padding-right: 0;
+}
+
