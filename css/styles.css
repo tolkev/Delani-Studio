@@ -65,3 +65,7 @@
 .first-list {
     padding-top: 20px;
 }
+
+.hidden-content {
+    display: none;
+}
