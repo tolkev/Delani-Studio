@@ -7,7 +7,7 @@
 
 .image {
     height: 100%;
-    background-image: url(./Assets/backgrounds/h_img.jpg);
+    background-image: url(../Assets/backgrounds/h_img.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -43,7 +43,7 @@
 
 #services {
     height: 50%;
-    background-image: url(./Assets/backgrounds/s_image.jpg);
+    background-image: url(../Assets/backgrounds/s_image.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -72,7 +72,7 @@
 
 #mcontact {
     height: 60%;
-    background-image: url(./Assets/backgrounds/c_image.jpg);
+    background-image: url(../Assets/backgrounds/c_image.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
